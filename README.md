@@ -18,7 +18,12 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws" />
+</p>
+
 
 ### Programming
 - Python
