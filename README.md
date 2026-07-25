@@ -87,9 +87,9 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/imtusharsharma-45&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtusharsharma-45&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/imtusharsharma-45&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtusharsharma-45&layout=compact&theme=default)
 <!--
 **imtusharsharma-45/imtusharsharma-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
