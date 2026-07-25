@@ -62,6 +62,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 - Superstore Sales Analysis
 - HR Analytics Dashboard
 - SQL Tableau Sales Dashboard
+- hr-attrition-analysis
 
 ---
 
