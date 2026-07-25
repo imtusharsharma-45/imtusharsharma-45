@@ -85,11 +85,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 
 ⭐ Thank you for visiting my profile.
 
-## 📊 GitHub Stats
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtusharsharma-45&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtusharsharma-45&layout=compact)
 <!--
 **imtusharsharma-45/imtusharsharma-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
