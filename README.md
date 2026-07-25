@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tushar Sharma
+# Hi there 👋 I'm Tushar Sharma
 
 ## Data Analyst | SQL | Python | Power BI | Tableau | AWS | Snowflake
 
