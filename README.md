@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | SQL | Python | Power BI | Tableau | AWS | Snowflake
+## Data Analyst | SQL | Python | Power BI | Advanced Excel | AWS | Snowflake
 
 📍 Noida, India
 
@@ -38,7 +38,6 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 
 ### Data Visualization
 - Power BI
-- Tableau
 - Microsoft Excel
 
 ### Cloud & Data Engineering
@@ -52,6 +51,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 - GitHub
 - VS Code
 - SQL Server Management Studio
+- Jupyter notebook
 
 ---
 
@@ -61,7 +61,6 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 - Customer Churn Analysis
 - Superstore Sales Analysis
 - HR Analytics Dashboard
-- SQL Tableau Sales Dashboard
 - hr-attrition-analysis
 
 ---
@@ -72,6 +71,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Tablea
 - Machine Learning
 - Data Engineering
 - AI for Data Analysts
+- APi for Data Analyst
 
 ---
 
