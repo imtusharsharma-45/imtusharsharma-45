@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | Business Intelligence | SQL | Python | Power BI | Advanced Excel
+## Data Analyst | Business Intelligence | SQL | Python | Power BI | Excel
 
 📍 Noida, India
 
