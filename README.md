@@ -6,7 +6,7 @@
 
 📧 Email: imtusharsharma45@gmail.com
 
-💼 Open to Data Analyst | Business Analyst | BI Analyst Opportunities
+💼 Open to Data Analyst | Business & Operation Analyst | Mis Analyst | BI Analyst Opportunities
 
 ---
 
@@ -57,10 +57,10 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, and cl
 
 ## 🚀 Featured Projects
 
-- Amazon Product Analytics Pipeline
-- Customer Churn Analysis
-- Superstore Sales Analysis
-- HR Analytics Dashboard
+- Amazon Product Performance & Pricing Analytics 
+- Customer Churn Analytics & Retention Insights 
+- Retail Sales Performance Analytics 
+- Workforce Analytics & Attrition Dashboard 
 - hr-attrition-analysis
 
 ---
