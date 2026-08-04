@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | SQL | Python | Power BI | Excel | Snowflake | Data Analytics
+## Data Analyst | SQL | Python | Power BI | Excel 
 
 📍 Noida, India
 
@@ -14,7 +14,7 @@
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 
-I enjoy solving real-world business problems using SQL, Python, Power BI, and cloud technologies. I continuously build end-to-end analytics projects to strengthen my skills in data analysis, visualization, ETL, and business intelligence.
+I enjoy solving real-world business problems using SQL, Python, Power BI, Excel and cloud technologies. I continuously build end-to-end analytics projects to strengthen my skills in data analysis, visualization, ETL, and business intelligence.
 
 ---
 
