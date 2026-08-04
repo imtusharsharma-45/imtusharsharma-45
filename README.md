@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | SQL | Python | Power BI | Excel | Snowflake 
+## Data Analyst | SQL | Python | Power BI | Excel | Snowflake | Data Analytics
 
 📍 Noida, India
 
