@@ -77,7 +77,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 
 ## 📫 Connect With Me
 
-- LinkedIn - https://www.linkedin.com/in/tushar-sharma-95b0483a3
+- LinkedIn - https://www.linkedin.com/in/imtusharsharma45
 - GitHub - https://github.com/imtusharsharma-45
 - Email - imtusharsharma45@gmail.com
 
