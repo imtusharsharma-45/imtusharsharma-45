@@ -1,18 +1,18 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | SQL | Python | Power BI | Excel | EDA | Dashboard Development | Business Intelligence 
+## Data Analyst | Business Intelligence & Cloud Data Analytics | SQL, Power BI, Snowflake, AWS
 
 📍 Noida, India
 
 📧 Email: imtusharsharma45@gmail.com
 
-💼 Open to Data Analyst | Business & Operation Analyst | Mis Analyst | BI Analyst Opportunities
+💼 Open to Data Analyst | Business Intelligence & Cloud Data Analytics
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+I am an aspiring Data Analyst | Business Intelligence & Cloud Data Analytics passionate about transforming raw data into meaningful business insights.
 
 I enjoy solving real-world business problems using SQL, Python, Power BI, Excel and cloud technologies. I continuously build end-to-end analytics projects to strengthen my skills in data analysis, visualization, ETL, and business intelligence.
 
