@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | Business Intelligence & Cloud Data Analytics | SQL, Power BI, Snowflake, AWS
+## Data Analyst | SQL • Python • Power BI • Excel | Turning Raw Data into Business Decisions | Open to Work
 
 📍 Noida, India
 
 📧 Email: imtusharsharma45@gmail.com
 
-💼 Open to Data Analyst | Business Intelligence & Cloud Data Analytics
+💼 Open to Data Analyst | Mis Analyst | MIS Executive or Reporting Analyst roles.
 
 ---
 
