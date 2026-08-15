@@ -53,6 +53,12 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 - SQL Server Management Studio
 - Jupyter notebook
 
+Cloud & Databases: SQL (SQL Server, Postgres), Snowflake, AWS S3, AWS IAM 
+Analytics & Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL Transformations (Window Functions, CTEs, Aggregations), Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH), EDA, Descriptive Statistics, Hypothesis Testing 
+Business Intelligence & Visualization: Power BI, DAX, Power Query, Data Modeling (Star Schema), Dashboard Development 
+Developer Tools & Workflow: Git, GitHub, Visual Studio Code, Jupyter Notebook, Prompt Engineering (GenAI for Code Optimization & Analytics Workflows)
+
+
 ---
 
 ## 🚀 Featured Projects
