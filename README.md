@@ -74,7 +74,6 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 - Machine Learning
 - Data Engineering
 - AI for Data Analysts
-- APi for Data Analyst
 - Automation
 
 ---
