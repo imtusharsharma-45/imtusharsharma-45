@@ -34,18 +34,14 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 - NumPy
 - Statistics
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
 
 ### Data Visualization
 - Power BI
 - Microsoft Excel
 
-### Cloud & Databses
+###  Databses
 - sql server
 - Postgres
-- AWS S3
-- AWS IAM
-- Snowflake
 - ETL Pipelines
 
 ### Developer Tools & Workflow:
@@ -54,16 +50,16 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 - VS Code
 - SQL Server Management Studio
 - Jupyter notebook
-- Prompt Engineering (GenAI for Code Optimization & Analytics Workflows)
+- PgAdmin
 
 ---
 
 ## 🚀 Featured Projects
 
-- Amazon Product Performance & Pricing Analytics 
 - Customer Churn Analytics & Retention Insights 
 - Retail Sales Performance Analytics 
-- Workforce Analytics & Attrition Dashboard 
+- Workforce Analytics & Attrition Dashboard
+- customer-360-clv-analytics
 - hr-attrition-analysis
 
 ---
@@ -73,8 +69,8 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 - Advanced SQL
 - Machine Learning
 - Data Engineering
-- AI for Data Analysts
 - Automation
+- Full stack Ai Engineering
 
 ---
 
