@@ -68,6 +68,7 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 
 - Advanced SQL
 - Machine Learning
+- Ai Assisted Data Analystic
 - Data Engineering
 - Automation
 - Full stack Ai Engineering
