@@ -1,20 +1,22 @@
 # Hi there 👋 I'm Tushar Sharma
 
-## Data Analyst | SQL • Python • Power BI • Excel | Turning Raw Data into Business Decisions | Open to Work
+## Data Analyst | MIS & Reporting | SQL • Python • Power BI • Excel | Turning Raw Data into Business Decisions | Open to Work
 
 📍 Noida, India
 
 📧 Email: imtusharsharma45@gmail.com
 
-💼 Open to Data Analyst | Mis Analyst | MIS Executive or Reporting Analyst roles.
+💼 Open to Data Analyst | MIS & Reporting
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an aspiring Data Analyst | Business Intelligence & Cloud Data Analytics passionate about transforming raw data into meaningful business insights.
+I'm a fresher Data Analyst focused on MIS and reporting, building dashboards and reports that turn raw data into clear numbers for management.
 
-I enjoy solving real-world business problems using SQL, Python, Power BI, Excel and cloud technologies. I continuously build end-to-end analytics projects to strengthen my skills in data analysis, visualization, ETL, and business intelligence.
+I work with Excel, Power Query, Power BI, SQL, and Python. My projects cover banking and finance, operations and inventory, HR analytics, and retail sales.
+
+I enjoy solving real-world business problems using SQL, Python, Power BI, Excel . I continuously build end-to-end analytics projects to strengthen my skills in data analysis, visualization, ETL, and business intelligence.
 
 ---
 
@@ -56,21 +58,18 @@ I enjoy solving real-world business problems using SQL, Python, Power BI, Excel 
 
 ## 🚀 Featured Projects
 
-- Customer Churn Analytics & Retention Insights 
 - Retail Sales Performance Analytics 
 - Workforce Analytics & Attrition Dashboard
-- customer-360-clv-analytics
+- Finance Performance & Risk Reporting Dashboard
+- Operations & Inventory MIS Automation Dashboard
 - hr-attrition-analysis
+- Insurance Analytics Dashboard
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Machine Learning
-- Ai Assisted Data Analystic
-- Data Engineering
-- Automation
 - Full stack Ai Engineering
 
 ---
